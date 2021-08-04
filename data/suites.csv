@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 04 15:20:06 NPT 2021","Wed Aug 04 15:20:07 NPT 2021","1114","testCases","test_login","Test001Login","","","test_open_project",""
+"skipped","Wed Aug 04 15:20:06 NPT 2021","Wed Aug 04 15:20:06 NPT 2021","0","testCases","test_login","Test001Login","","","test_new_project_creation",""
+"passed","Wed Aug 04 15:20:01 NPT 2021","Wed Aug 04 15:20:06 NPT 2021","5538","testCases","test_login","Test001Login","","","test_login",""
+"skipped","Wed Aug 04 15:20:08 NPT 2021","Wed Aug 04 15:20:08 NPT 2021","0","testCases","test_login","Test001Login","","","test_edit_general_information",""
+"passed","Wed Aug 04 15:20:08 NPT 2021","Wed Aug 04 15:20:12 NPT 2021","3769","testCases","test_login","Test001Login","","","test_edit_project_specific",""
+"passed","Wed Aug 04 15:20:07 NPT 2021","Wed Aug 04 15:20:08 NPT 2021","1086","testCases","test_login","Test001Login","","","test_click_edit",""

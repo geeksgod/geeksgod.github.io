@@ -1,0 +1,101 @@
+{
+  "uid" : "fb4eaca4a7050113",
+  "name" : "test_edit_general_information",
+  "fullName" : "testCases.test_login.Test001Login#test_edit_general_information",
+  "historyId" : "2a3c845c0c03891894f72d451a907107",
+  "time" : {
+    "start" : 1628068621123,
+    "stop" : 1628068621123,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped",
+  "statusTrace" : "('/home/bipin/YIPL/Automation/PBMIS/testCases/test_login.py', 71, 'Skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1628068611432,
+      "stop" : 1628068612778,
+      "duration" : 1346
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1628068611432,
+      "stop" : 1628068611432,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1628068625014,
+      "stop" : 1628068627078,
+      "duration" : 2064
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test001Login"
+  }, {
+    "name" : "host",
+    "value" : "bipin-Nitro-AN515-54"
+  }, {
+    "name" : "thread",
+    "value" : "48880-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testCases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb4eaca4a7050113.json",
+  "parameterValues" : [ ]
+}

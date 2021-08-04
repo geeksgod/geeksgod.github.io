@@ -1,0 +1,61 @@
+[ {
+  "uid" : "3cca0cc0410eb277",
+  "name" : "test_open_project",
+  "time" : {
+    "start" : 1628069706579,
+    "stop" : 1628069707693,
+    "duration" : 1114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8b424929abe7b05",
+  "name" : "test_new_project_creation",
+  "time" : {
+    "start" : 1628069706577,
+    "stop" : 1628069706577,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9e2446e6b18a68c",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1628069701037,
+    "stop" : 1628069706575,
+    "duration" : 5538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e18b23515e941896",
+  "name" : "test_edit_general_information",
+  "time" : {
+    "start" : 1628069708784,
+    "stop" : 1628069708784,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b5fc251baff3d6b9",
+  "name" : "test_edit_project_specific",
+  "time" : {
+    "start" : 1628069708785,
+    "stop" : 1628069712554,
+    "duration" : 3769
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9488b19b53f03eb",
+  "name" : "test_click_edit",
+  "time" : {
+    "start" : 1628069707695,
+    "stop" : 1628069708781,
+    "duration" : 1086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

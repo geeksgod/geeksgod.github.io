@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "testCases.test_login",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "9e2446e6b18a68c",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628069701037,
+        "stop" : 1628069706575,
+        "duration" : 5538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_new_project_creation",
+      "uid" : "b8b424929abe7b05",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1628069706577,
+        "stop" : 1628069706577,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_open_project",
+      "uid" : "3cca0cc0410eb277",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628069706579,
+        "stop" : 1628069707693,
+        "duration" : 1114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_click_edit",
+      "uid" : "a9488b19b53f03eb",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628069707695,
+        "stop" : 1628069708781,
+        "duration" : 1086
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_edit_general_information",
+      "uid" : "e18b23515e941896",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1628069708784,
+        "stop" : 1628069708784,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_edit_project_specific",
+      "uid" : "b5fc251baff3d6b9",
+      "parentUid" : "7b95dbc3ffc49142a395de34709a3e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628069708785,
+        "stop" : 1628069712554,
+        "duration" : 3769
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testCases.test_login"
+  } ],
+  "name" : "packages"
+}
